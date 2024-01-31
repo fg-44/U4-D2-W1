@@ -1,0 +1,14 @@
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\U3-W1-D3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\U3-W1-D3.AssemblyInfoInputs.cache
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\U3-W1-D3.AssemblyInfo.cs
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\U3-W1-D3.csproj.CoreCompileInputs.cache
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\bin\Debug\net8.0\U3-W1-D3.exe
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\bin\Debug\net8.0\U3-W1-D3.deps.json
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\bin\Debug\net8.0\U3-W1-D3.runtimeconfig.json
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\bin\Debug\net8.0\U3-W1-D3.dll
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\bin\Debug\net8.0\U3-W1-D3.pdb
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\U3-W1-D3.dll
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\refint\U3-W1-D3.dll
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\U3-W1-D3.pdb
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\U3-W1-D3.genruntimeconfig.cache
+C:\Users\Federica\source\repos\U3-W1-D3\U3-W1-D3\obj\Debug\net8.0\ref\U3-W1-D3.dll
